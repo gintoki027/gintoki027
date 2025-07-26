@@ -21,19 +21,4 @@ I'm currently diving deeper into backend development — building scalable syste
 <!-- ## Languages I Use
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gintoki027&show_icons=true&locale=en&layout=compact" alt="rajatx24" /></p> -->
 
-## Coding Profile
-
-<table>
-  <tr>
-    <td>
-      <a href="https://codeforces.com/profile/gintoki027">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=gintoki027&theme=noctis_minimus&disable_animations=false&show_icons=true&force_username=true" width="480" height="240" />
-      </a>
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/gintoki027?theme=nord&font=Alegreya%20Sans&ext=heatmap" width="480" height="240" />
-    </td>
-  </tr>
-</table>
-
 
